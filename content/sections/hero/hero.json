@@ -1,22 +1,24 @@
 {
-  "intro": "Hej",
-  "heroPhoto": {
-    "src": "../../images/lego-dummy.png",
-    "alt": "My Photo"
-  },
-  "image": {
-    "src": "../../images/waving-hand.png",
-    "alt": "Waving Hand Emoji"
-  },
-  "title": "I'm a Gatsby Starter",
-  "subtitle": {
-    "prefix": "I do all the setup ",
-    "highlight": "for you",
-    "suffix": "."
-  },
-  "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
-  "socialProfiles": {
-    "from": ["LinkedIn", "Medium", "Github", "Mail"],
-    "showIcons": false
-  }
+    "intro": "Leading and Teaching from the",
+    "heroPhoto": {
+        "src": "../../images/second.png",
+        "alt": "Meredith Phinney Picture"
+    },
+    "image": {
+        "src": "../../images/heart.png",
+        "alt": "Handwritten name logo"
+    },
+    "title": "Leading and Teaching",
+    "subtitle": {
+        "prefix": "from the heart"
+    },
+    "description": "Currently the Head of Middle School at Keystone Academy in Beijing, China. After 20 years of International IB and MYP education I continue to learn from what has been an incredible journey.",
+    "socialProfiles": {
+        "from": [
+            "LinkedIn",
+            "Twitter",
+            "Mail"
+        ],
+        "showIcons": true
+    }
 }

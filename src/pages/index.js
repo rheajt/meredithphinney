@@ -1,27 +1,44 @@
 import React from "react";
 import {
-  AboutSection,
-  ArticlesSection,
-  ContactSection,
-  HeroSection,
-  InterestsSection,
-  Page,
-  ProjectsSection,
-  Seo,
+    AboutSection,
+    ArticlesSection,
+    ContactSection,
+    HeroSection,
+    InterestsSection,
+    Page,
+    ProjectsSection,
+    Seo,
 } from "gatsby-theme-portfolio-minimal";
+import { CustomHero } from "../components/CustomHero";
 
 export default function IndexPage() {
-  return (
-    <>
-      <Seo title="Gatsby Starter for Portfolio Minimal" />
-      <Page useSplashScreenAnimation>
-        <HeroSection sectionId="hero" />
-        <ArticlesSection sectionId="articles" heading="Latest Articles" sources={['Medium']} />
-        <AboutSection sectionId="about" heading="About Portfolio Minimal" />
-        <InterestsSection sectionId="details" heading="Details" />
-        <ProjectsSection sectionId="features" heading="Built-in Features" />
-        <ContactSection sectionId="github" heading="Issues?" />
-      </Page>
-    </>
-  );
+    return (
+        <>
+            <Seo title="Meredith Phinney" />
+            <Page useSplashScreenAnimation>
+                <CustomHero sectionId="hero" />
+
+                <AboutSection
+                    sectionId="about"
+                    heading="About Meredith Phinney"
+                />
+
+                <ArticlesSection
+                    sectionId="articles"
+                    heading="Latest Articles"
+                    sources={["Blog"]}
+                />
+
+                <InterestsSection sectionId="interests" heading="Details" />
+
+                {/*
+                <ProjectsSection
+                    sectionId="features"
+                    heading="Built-in Features"
+                />
+                    */}
+                <ContactSection sectionId="contact" heading="Contact me" />
+            </Page>
+        </>
+    );
 }
