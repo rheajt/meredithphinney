@@ -6,7 +6,8 @@
         "clean": "gatsby clean",
         "dev": "gatsby develop",
         "build": "gatsby build",
-        "serve": "gatsby serve"
+        "serve": "gatsby serve",
+        "deploy": "gatsby build && gh-pages -d public"
     },
     "engines": {
         "node": ">=16.0.0"
