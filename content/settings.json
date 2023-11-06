@@ -1,49 +1,49 @@
 {
-    "siteMetadata": {
-        "language": "en",
-        "siteUrl": "https://meredithphinney.com",
-        "title": "Meredith Phinney: Leading and Teaching from the Heart",
-        "titleTemplate": "%s · Portfolio Minimal",
-        "description": "Portfolio for International IB/MYP educator, Meredith Phinney",
-        "author": "Meredith Phinney",
-        "avatar": "../content/images/second.png",
-        "bio": "Educator for over 20 years with a passion for teaching and leading in the IB/MYP framework.",
-        "social": {
-            "twitter": "https://twitter.com/phinthink",
-            "linkedin": "https://www.linkedin.com/in/meredithphinney/",
-            "mail": "mailto:mphinneym@gmail.com"
-        }
-    },
-    "siteConfiguration": {
-        "logo": {
-            "text": "Meredith Phinney"
-        },
-        "navigation": {
-            "header": [
-                {
-                    "label": "About",
-                    "url": "/#about"
-                },
-                {
-                    "label": "Blog",
-                    "url": "/blog"
-                },
-                {
-                    "label": "Contact",
-                    "url": "/#contact"
-                }
-            ],
-            "ctaButton": {
-                "openNewTab": true,
-                "label": "Resume",
-                "url": "/resume-2022.pdf"
-            },
-            "footer": []
-        },
-        "featureToggles": {
-            "useDarkModeAsDefault": false,
-            "useDarkModeBasedOnUsersPreference": true,
-            "useCookieBar": false
-        }
-    }
+	"siteMetadata": {
+		"language": "en",
+		"siteUrl": "https://meredithphinney.com",
+		"title": "Meredith Phinney: Leading and Teaching from the Heart",
+		"titleTemplate": "%s · Portfolio Minimal",
+		"description": "Portfolio for International IB/MYP educator, Meredith Phinney",
+		"author": "Meredith Phinney",
+		"avatar": "../content/images/second.png",
+		"bio": "Educator for over 20 years with a passion for teaching and leading in the IB/MYP framework.",
+		"social": {
+			"twitter": "https://twitter.com/phinthink",
+			"linkedin": "https://www.linkedin.com/in/meredithphinney/",
+			"mail": "mailto:mphinneym@gmail.com"
+		}
+	},
+	"siteConfiguration": {
+		"logo": {
+			"text": "Meredith Phinney"
+		},
+		"navigation": {
+			"header": [
+				{
+					"label": "About",
+					"url": "/#about"
+				},
+				{
+					"label": "Blog",
+					"url": "/blog"
+				},
+				{
+					"label": "Contact",
+					"url": "/#contact"
+				}
+			],
+			"ctaButton": {
+				"openNewTab": true,
+				"label": "Resume",
+				"url": "/resume-2022.pdf"
+			},
+			"footer": []
+		},
+		"featureToggles": {
+			"useDarkModeAsDefault": false,
+			"useDarkModeBasedOnUsersPreference": false,
+			"useCookieBar": false
+		}
+	}
 }

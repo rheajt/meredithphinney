@@ -1,24 +1,24 @@
 {
-    "intro": "Leading and Teaching from the",
-    "heroPhoto": {
-        "src": "../../images/second.png",
-        "alt": "Meredith Phinney Picture"
-    },
-    "image": {
-        "src": "../../images/heart.png",
-        "alt": "Handwritten name logo"
-    },
-    "title": "Leading and Teaching",
-    "subtitle": {
-        "prefix": "from the heart"
-    },
-    "description": "Currently the Head of Middle School at Keystone Academy in Beijing, China. After 20 years of International IB and MYP education I continue to learn from what has been an incredible journey.",
-    "socialProfiles": {
-        "from": [
-            "LinkedIn",
-            "Twitter",
-            "Mail"
-        ],
-        "showIcons": true
-    }
+	"intro": "Leading and Teaching from the",
+	"heroPhoto": {
+		"src": "../../images/second.png",
+		"alt": "Meredith Phinney Picture"
+	},
+	"image": {
+		"src": "../../images/heart.png",
+		"alt": "Handwritten name logo"
+	},
+	"title": "Leading and Teaching",
+	"subtitle": {
+		"prefix": "from the heart"
+	},
+	"description": "Currently the Deputy Head of School at Bali Island School in Bali, Indonesia. After 23 years of International IB education, I continue to learn from what has been an incredible journey.",
+	"socialProfiles": {
+		"from": [
+			"LinkedIn",
+			"Twitter",
+			"Mail"
+		],
+		"showIcons": true
+	}
 }
