@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://meredithphinney.com/sitemap/sitemap-index.xml
+Sitemap: https://meredithphinney.com/sitemap-index.xml
 Host: https://meredithphinney.com
